@@ -20,7 +20,7 @@ The Auth Service is responsible for authentication and authorization of incoming
 
 - Authentication should be quick to prevent delays in app launch.
 - Database should be optimized to avoid complex and long-running queries (LRQs).
-
+![Reference.png](Reference.png)
 ---
 
 ## 🚀 Low-Level Design (LLD)
